@@ -1,2 +1,2 @@
 # nodecovering
-![Alt text](relative/path/to/img.jpg?raw=true "Initial graph")
+![Alt text](relative/path/to/path.png?raw=true "Initial graph")
